@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<assignment>
+    <subject>Web Tech</subject>
+    <subject>XML</subject>
+    <subject>&lt; and &gt;</subject>
+    <abc>
+        <![CDATA[
+        <subject>Web Tech</subject>
+        ]]>
+    </abc>
+</assignment>
